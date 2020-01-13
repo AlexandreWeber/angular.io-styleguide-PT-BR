@@ -10,3 +10,5 @@ https://angular.io/guide/styleguide
 - [Services](https://github.com/AlexandreWeber/angular.io-styleguide-PT-BR/blob/master/services)
 - [Data Services](https://github.com/AlexandreWeber/angular.io-styleguide-PT-BR/blob/master/data-services.md)
 - [Lifecycle hooks](https://github.com/AlexandreWeber/angular.io-styleguide-PT-BR/blob/master/lifecycle-hooks.md)
+
+### Para contribuir na tradução, acesse a aba Issues e assuma uma delas :) Para facilitar a busca ordene pelas Issues mais antigas.

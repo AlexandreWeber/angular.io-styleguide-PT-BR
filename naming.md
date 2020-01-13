@@ -1,8 +1,8 @@
 ### Nomeação
 
-O padrão de neomação de arquivos é extremamente importante para a manutenibilidade e legibilidade do projeto. Esse guia recomenda convenções de nomenclatura para nomes de arquivos e palavras-chave.
+O padrão de nomeação de arquivos é extremamente importante para a manutenibilidade e legibilidade do projeto. Esse guia recomenda convenções de nomenclatura para nomes de arquivos e palavras-chave.
 
-###Diretirezes gerais de nomeação
+### Diretirezes gerais de nomeação
 
 **Faça:** Utilize nomes consistentes para todos as palavras-chave
 

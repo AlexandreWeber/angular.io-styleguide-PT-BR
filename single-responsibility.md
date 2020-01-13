@@ -14,7 +14,7 @@ Aplique o conceito de responsabilidade única [SRP](https://en.wikipedia.org/wik
 
 O ponto principal é tornar código reutilizave, fácil de ler, e menos propenso a erros.
 
-O exemplo negativo abaixo define o AppComponent, bootstraps o aplicativo, define o modelo *Hero* e realiza uma requisição no servidor, tudo isso no mesmo arquivo. *Não faça isso.*
+O exemplo negativo abaixo define o AppComponent, inicializa a aplicação, define o modelo *Hero* e realiza uma requisição no servidor, tudo isso no mesmo arquivo. *Não faça isso.*
 
 **app/heroes/hero.component.ts**
 ```
@@ -66,7 +66,7 @@ function getHeroes(): Promise<Hero[]> {
   return Promise.resolve(HEROES); // TODO: get hero data from the server;
 }
 ```
-É uma melhor prática distribuir o componente e suas classes suportados em arquivos separados, cada um com a sua responsabilidade.
+É uma melhor prática distribuir o componente e suas classes suportadas em arquivos separados, cada um com a sua responsabilidade.
 
 **main.ts**
 ```

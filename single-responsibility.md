@@ -1,7 +1,6 @@
 ### Responsábilidade Única
 
-Aplique o conceito de responsabilidade única [SRP][SRP] para todos os componentes, serviços, pipes, diretivas e outros arquivos do projeto. Isso ajuda a manter a aplicação mais limpa, fácil de ler e manutenir, e mais fácil para testar.
-[SRP]: https://en.wikipedia.org/wiki/Single_responsibility_principle
+Aplique o conceito de responsabilidade única [SRP][https://en.wikipedia.org/wiki/Single_responsibility_principle] para todos os componentes, serviços, pipes, diretivas e outros arquivos do projeto. Isso ajuda a manter a aplicação mais limpa, fácil de ler e manutenir, e mais fácil para testar.
 
 **Faça:** Defina apenas uma coisa, como um serviço ou componente, por arquivo.
 

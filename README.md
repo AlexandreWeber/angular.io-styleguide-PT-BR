@@ -3,3 +3,4 @@
 https://angular.io/guide/styleguide
 
 - [Single responsibility](https://github.com/AlexandreWeber/angular.io-styleguide-PT-BR/blob/master/single-responsibility.md)
+- [Naming](https://github.com/AlexandreWeber/angular.io-styleguide-PT-BR/blob/master/naming.md)
